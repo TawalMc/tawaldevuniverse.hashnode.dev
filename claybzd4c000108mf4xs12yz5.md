@@ -167,7 +167,7 @@ export const Menu: React.FC<MenuProps> = ({ menuItemList }) => {
 
 Now, if you try to give a children and a menuItemList to Menu, TypeScript will display a type incompatibility warning.
 
-## So
+## Conclusion
 
 This solution may not be the best but it helps us to make some props depends to another and TypeScript can raise a
 warning if user didn't
