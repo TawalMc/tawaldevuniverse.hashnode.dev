@@ -66,12 +66,10 @@ Yes, because there will be some _devs_ who will provide these two props even if 
 
 I finally decide: **Only one of them will be available to use** so **"If user/dev set menuItemList array he/she cannot set children prop"**.
 
-## The solutions
+## The solutions: TypeScript + never + union
 
 We can try to define these two optional props and then check their existence and raise an error if both are available.
 I did not like this and did not try to implement it. The solution I used has the same logic but cleaner.
-
-### TypeScript + never + union
 
 _If like me, you are wondering where we can use **never**, be patient, here you'll use it 🤣_
 
