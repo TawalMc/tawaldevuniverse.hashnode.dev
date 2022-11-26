@@ -1,8 +1,5 @@
 # Make React prop depends to other props
 
-I'll share here a trick I used recently (after some research 🤣) to make the existence of a prop (react) value depend
-on another using TypeScript.
-
 ## The context
 
 We have a `Menu` component that can have as children `MenuItem` or a custom react component.
@@ -80,7 +77,7 @@ _If like me, you are wondering where we can use **never**, be patient, here you'
 
 The final type will be in two parts.
 
-#### 1st step
+**1st step**
 
 ```js
 export type MenusProps = {
@@ -91,7 +88,7 @@ export type MenusProps = {
 
 We make all of them optionals. Since we want to base our condition to the availability of `children`, we make it optional as well.
 
-#### 2nd step
+**2nd step**
 
 ```js
 export type MenusProps = {
@@ -102,7 +99,7 @@ export type MenusProps = {
 
 With this type, `MenuProps` can have `children` as prop but not `menuItemList`.
 
-#### 3rd step
+**3rd step**
 
 ```js
 export type MenusProps =
@@ -120,7 +117,7 @@ We now indicate that `MenuProps` is an union of the above types. So it can have 
 In this case, if the user of `Menu` component provides `children` as prop, he/she cannot provides again `menuItemList` as
 prop and if he/she can pass nothing.
 
-#### Bonus
+**Bonus**
 
 The final type is
 
@@ -181,4 +178,4 @@ respect this rule.
 I'm sharing a few tips that I use in my daily tasks, and I hope you have others that you want to share with us.
 I'm open to tips, and my social accounts (below) are there for that.
 
-_So can you smell what TawalMc is cooking?_
+_So can you smell what Tawaliou is cooking?_
