@@ -174,6 +174,6 @@ warning if user didn't
 respect this rule.
 
 I'm sharing a few tips that I use in my daily tasks, and I hope you have others that you want to share with us.
-I'm open to tips, and my social accounts (below) are there for that.
+I'm open to tips, and my social accounts are there for that.
 
 _So can you smell what Tawaliou is cooking?_
