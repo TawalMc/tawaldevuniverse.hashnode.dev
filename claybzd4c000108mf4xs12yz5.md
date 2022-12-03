@@ -173,7 +173,6 @@ This solution may not be the best but it helps us to make some props depends to 
 warning if user didn't
 respect this rule.
 
-I'm sharing a few tips that I use in my daily tasks, and I hope you have others that you want to share with us.
-I'm open to tips, and my social accounts are there for that.
+I share a few tips that I use in my daily tasks, and I hope you have others that you want to share with us. I'm open to tips, and my social accounts are there for that.
 
-_So can you smell what Tawaliou is cooking?_
+_So can you smell what Tawaliou is cooking ?_
