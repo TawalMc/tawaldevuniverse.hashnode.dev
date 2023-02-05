@@ -60,6 +60,6 @@ Yes, the big part. To make my choice here are the criteria I followed:
         You can understand that I chose T3 Stack. **At the end of the project, I'll share my feelings after using this stack.**
         
 
-There is another choice I need to do: the deployment platform. As I have't finished or have a eta version yet, I haven't made my choice yet. But I'm thinking between: [fly.io](https://fly.io/), [render](https://render.com/) and [vercel](https://vercel.com/).
+There is another choice I need to do: the deployment platform. As I haven't finished or have a beta version yet, I haven't made my choice yet. But I'm thinking between: [fly.io](https://fly.io/), [render](https://render.com/) and [vercel](https://vercel.com/).
 
 We are athe end of this article, in my next article I'll share some tricks that I'm using with this stack.
