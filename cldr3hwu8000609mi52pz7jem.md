@@ -1,7 +1,5 @@
 # Building a side project, a SaaS product based on T3 Stack
 
-My love for the indie hacker, micro SaaS and the trend of building in public pushes me to share what I'm building, how I'm doing it and with what.
-
 *Before starting I want to thank Hashnode and point out that my article for* [*Dev Retro 2022*](https://tawaldevuniverse.hashnode.dev/dev-retro-2022-beginning-of-my-professional-career) *was nominated among* [*the winners*](https://townhall.hashnode.com/dev-retro-2022-winners)*, very happy.*
 
 ## The project
