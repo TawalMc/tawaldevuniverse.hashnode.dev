@@ -49,7 +49,7 @@ Yes, the big part. To make my choice here are the criteria I followed:
         
         **NB:** I am not a fan of Material UI, customization is an obstacle course where you need to check the css class name of children in chrome inspector to overrides their styles
         
-3. I want a real full-stack React/Next framework that'll allow me to write JS code in both the server and front end. If it can include a config for database and authentication it'll be **very good**. And no, I don't have the time and energy to go with API first architecture so I cannot have the Node server separate from the frontend. So I have 4 choices:
+3. I want a real full-stack React/Next framework that'll allow me to write JS code in both the server and front end. If it can include a config for database and authentication it'll be **very good**. And no, I don't have the time and energy to go with API first architecture so I cannot have the Node server separate from the frontend. So I have 3 choices:
     
     * [Redwood.js](https://redwoodjs.com/): It's a good candidate and I like the name and the full battery included: Routing, GraphQL, TypeScript, Prisma, and Authentication. It's good but I need to jump to GraphQL and they have their routing system (It'll take me some time to be ready, the time I don't have 😄). But I want to test it one day
         
