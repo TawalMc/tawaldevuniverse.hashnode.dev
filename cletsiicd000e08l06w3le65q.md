@@ -1,8 +1,8 @@
 ---
-title: "Some tips when using T3 Stack: Part 1"
+title: "Some tips when using T3 Stack: NextAuth and Models types"
 datePublished: Sat Mar 04 2023 09:56:50 GMT+0000 (Coordinated Universal Time)
 cuid: cletsiicd000e08l06w3le65q
-slug: some-tips-when-using-t3-stack-part-1
+slug: some-tips-when-using-t3-stack-nextauth-and-models-types
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677923475166/b1be1008-1c69-4eec-8e59-7d33be8c8f51.jpeg
 tags: nextjs, prisma, trpc, t3stack
 
