@@ -1,4 +1,12 @@
-# Building a side project, a SaaS product based on T3 Stack
+---
+title: "Building a side project, a SaaS product based on T3 Stack"
+datePublished: Sun Feb 05 2023 08:01:17 GMT+0000 (Coordinated Universal Time)
+cuid: cldr3hwu8000609mi52pz7jem
+slug: building-a-side-project-a-saas-product-based-on-t3-stack
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675584490758/6045866e-b5f3-450c-9a46-a34861daf3d3.jpeg
+tags: fullstack, saas, reactjs, typescript, nextjs
+
+---
 
 *Before starting I want to thank Hashnode and point out that my article for* [*Dev Retro 2022*](https://tawaldevuniverse.hashnode.dev/dev-retro-2022-beginning-of-my-professional-career) *was nominated among* [*the winners*](https://townhall.hashnode.com/dev-retro-2022-winners)*, very happy.*
 
